@@ -1,0 +1,16 @@
+{
+    "name": "Mi Página Web Creativa",
+    "short_name": "MiPWA",
+    "description": "Una página web progresiva con un diseño responsivo y multimedia.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "multimedia/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
